@@ -1,8 +1,8 @@
-# Professional README Generator
+# test
 
 
 ## Description
-This application auto-generatres a readme.md by asking questions in the terminal using node.
+test
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,21 +13,21 @@ This application auto-generatres a readme.md by asking questions in the terminal
 - [Questions](#questions)
 
 ## Installation
-git pull main branch and npm install commands in terminal.
+test
 
 ## Usage
-In terminal, enter node index.js.
+test
 
 ## License
 This project is licensed under the None license.
 
 ## Contributing
-Please open a pull request for contributions.
+test
 
 ## Tests
-npm test.
+test
 
 ## Questions
 If you have any questions, please reach out to me via:
-- GitHub: [Fortunate122](https://github.com/Fortunate122)
-- Email: davidsaldana122@gmail.com
+- GitHub: [test](https://github.com/test)
+- Email: test
