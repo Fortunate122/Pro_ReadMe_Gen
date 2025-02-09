@@ -1,0 +1,24 @@
+{
+  "name": "pro_readme_gen",
+  "version": "1.0.0",
+  "description": "pro readme generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fortunate122/Pro_ReadMe_Gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fortunate122/Pro_ReadMe_Gen/issues"
+  },
+  "homepage": "https://github.com/Fortunate122/Pro_ReadMe_Gen#readme",
+  "dependencies": {
+    "inquirer": "^12.4.1"
+  }
+}
