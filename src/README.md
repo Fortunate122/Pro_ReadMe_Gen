@@ -1,24 +1,10 @@
-# test
-
+# test video
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-
-
-
 ## Description
-test
+testing app with video
 
 ## Table of Contents
-
-- [Motivation](#motivation)
-- [Usage](#usage)
-- [License](#license)
-- [Learning](#learning)
-- [Standout](#standout)
-- [Questions](#questions)node
-
-## Motivation
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -27,31 +13,21 @@ test
 - [Questions](#questions)
 
 ## Installation
-
-test
+npm install
 
 ## Usage
-test
+node index.js
 
 ## License
-
 This project is licensed under the MIT license.
 
-## Learning
-test
-
-## Standout
-
-This project is licensed under the None license.
-
 ## Contributing
-test
+answer questions, please create pull request
 
 ## Tests
-
-test
+npm test
 
 ## Questions
 If you have any questions, please reach out to me via:
-- GitHub: [test](https://github.com/test)
-- Email: test
+- GitHub: [Fortunate122](https://github.com/Fortunate122)
+- Email: davidsaldana122@gmail.com
