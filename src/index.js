@@ -5,11 +5,11 @@ import inquirer from "inquirer";
 // TODO: Create an array of questions for user input
 const questions = [
   { type: "input", name: "title", message: "What is the title of your project?" },
-  { type: "input", name: "description", message: "Provide a description for your project:" },
-  { type: "input", name: "installation", message: "What are the installation instructions?" },
-  { type: "input", name: "usage", message: "How do you use this project?" },
-  { type: "input", name: "contributing", message: "Provide contribution guidelines:" },
-  { type: "input", name: "tests", message: "What are the test instructions?" },
+  { type: "input", name: "description", message: "Provide a description for your project and why it was built:" },
+  { type: "input", name: "motivation", message: "What was your motivation?" },
+  { type: "input", name: "usage", message: "How do you use this project and what problem does it solve?" },
+  { type: "input", name: "learning", message: "What did you learn?" },
+  { type: "input", name: "standout", message: "What makes your project stand out?" },
   {
     type: "list",
     name: "license",
@@ -34,15 +34,15 @@ ${licenseBadge}
 ${answers.description}
 
 ## Table of Contents
-- [Installation](#installation)
+- [Motivation](#motivation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+- [Learning](#learning)
+- [Standout](#standout)
+- [Questions](#questions)node
 
-## Installation
-${answers.installation}
+## Motivation
+${answers.motivation}
 
 ## Usage
 ${answers.usage}
@@ -50,11 +50,11 @@ ${answers.usage}
 ## License
 This project is licensed under the ${answers.license} license.
 
-## Contributing
-${answers.contributing}
+## Learning
+${answers.learning}
 
-## Tests
-${answers.tests}
+## Standout
+${answers.standout}
 
 ## Questions
 If you have any questions, please reach out to me via:
